@@ -1,0 +1,2 @@
+O github é um servidor (nuvem) para hospedar arquivos e controle de 
+versionamento;
